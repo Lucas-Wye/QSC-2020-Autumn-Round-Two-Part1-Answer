@@ -1,0 +1,1 @@
+export MY_VALUE=233
